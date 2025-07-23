@@ -251,7 +251,6 @@ def partitioning_subplot_with_data(dataset, approx_thresholds, saliency_threshol
 			if dataset != 'mnist' and dataset != 'hidden_corr' and dataset != 'acsi' and dataset != 'estate_corr':
 				axs[i, j].text(0.03, 0, f'# boxes={len(coordinates_per_box)}', fontsize=22, fontfamily='Palatino Linotype')
 			elif dataset == 'hidden_corr':
-				#print("boo")
 				axs[i, j].text(0.03, 0, f'# boxes={len(coordinates_per_box)}', fontsize=22, fontfamily='Palatino Linotype')#
 			else: # mnist & acsi & estate_corr
 				axs[i, j].text(0.03, 0.8, f'# boxes={len(coordinates_per_box)}', fontsize=22, fontfamily='Palatino Linotype')
