@@ -12,7 +12,7 @@ More information can be found [here](https://pypi.org/project/matlabengine/9.13.
 # Data  
 Due to storage constraints on Anonymous Github, we share our data using an anonymous OSF [link](https://osf.io/gfrxk/?view_only=09ba4d97978b476eac0075ac07872c73). Please download the files and unzip them in the folder where you cloned the repo. The paths are organized as follows:
 
-### sigmod2026/dataset_name/ 
+### .../dataset_name/ 
 - `saliency_data/`                        # aggregate saliency map information
   - `cumulative_saliency/`    # saliency maps of the original data stored as images across different configurations of point size & opacity
 - `sampling_techniques/`
