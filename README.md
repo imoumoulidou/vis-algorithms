@@ -1,5 +1,3 @@
-# edbt-2027
-
 # MATLAB requirements 
 We use the DVS saliency model (written in MATLAB). You will need your own package installation, which can be found [here](https://github.com/sandialabs/DVS). 
 
