@@ -8,7 +8,7 @@ Our code is tested in MATLAB R2022_b. You also need to install a MATLAB Engine f
 More information can be found [here](https://pypi.org/project/matlabengine/9.13.1/) and [here](https://www.mathworks.com/help/matlab/matlab_external/install-the-matlab-engine-for-python.html). 
 
 # Data  
-Due to storage constraints on Anonymous Github, we share our data using an anonymous OSF [link](https://osf.io/gfrxk/?view_only=09ba4d97978b476eac0075ac07872c73). Please download the files and unzip them in the folder where you cloned the repo. The paths are organized as follows:
+We share our data using an OSF [link](https://osf.io/gfrxk/?view_only=09ba4d97978b476eac0075ac07872c73). Please download the files and unzip them in the folder where you cloned the repo. The paths are organized as follows:
 
 ### .../dataset_name/ 
 - `saliency_data/`                        # aggregate saliency map information
